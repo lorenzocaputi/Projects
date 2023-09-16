@@ -1,1 +1,1 @@
-THIS IS A WEB APP I CREATED TO REGISTER MY FRIEND'S BIRTHDAYS. IT WORKS WITH PYTHON, FLASK AND SQLITE
+This is a web app I created to register my friends' birthdays. It works with Python, Flask and SQLite.
