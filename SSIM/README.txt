@@ -9,6 +9,5 @@ We made a presentation on the paper and re-emplemented the algorithm to answer 3
 In this folder I'll post the 3 scripts we made to answer these questions. 
 
 We used pandas, scikit-image, matplotlib and we worked with the Remini API 
-(Remini is an AI upscaling service which, spoiler alert, resulted as the best one)
 
 Hope you enjoy the code :)
