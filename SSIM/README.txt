@@ -8,6 +8,10 @@ We made a presentation on the paper and re-emplemented the algorithm to answer 3
 
 In this folder I'll post the 3 scripts we made to answer these questions. 
 
-We used pandas, scikit-image, matplotlib and we worked with the Remini API 
+We used pandas, scikit-image, matplotlib and we worked with the Remini API. 
+
+To install the required dependencies, run the following command:
+"pip install -r requirements.txt"
+
 
 Hope you enjoy the code ;)
