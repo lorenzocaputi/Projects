@@ -8,7 +8,7 @@ from skimage.metrics import structural_similarity as ssim
 from time import sleep
 import matplotlib.pyplot as plt
 
-API_KEY = "YOUR API KEY"
+API_KEY = "YOUR_API_KEY"
 _TIMEOUT = 60
 _BASE_URL = "https://developer.remini.ai/api"
 CONTENT_TYPE = "image/png"
