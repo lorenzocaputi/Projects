@@ -1,7 +1,3 @@
-"""
-Tic Tac Toe Player
-"""
-
 import math, copy
 
 X = "X"
@@ -22,7 +18,6 @@ def player(board):
     """
     Returns player who has the next turn on a board.
     """
-    # loop over each element, count how many EMPTY there are, if odd --> X, else 0
     count = 0
     for line in board:
         for element in line:
@@ -41,7 +36,6 @@ def actions(board):
     """
     Returns set of all possible actions (i, j) available on the board.
     """
-    # loop over the board and if EMPTY add to options
     actions = set()
     for row in range(len(board)):
         for col in range(len(board[row])):
