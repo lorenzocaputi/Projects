@@ -1,0 +1,1 @@
+An implementation of Graph Convolutional Neural Networks to cluster papers based on their citations network. The project also implements a visualization of the learning progress at each epoch. Enjoy :)
