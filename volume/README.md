@@ -1,1 +1,1 @@
-THIS IS A C PROGRAM EDITING THE VOLUME OF AN AUDIO FILE
+A C program to edit the volume of an audio file.
