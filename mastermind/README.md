@@ -1,2 +1,1 @@
-THIS IS A TERMINAL PROGRAM IN PYTHON, REPRODUCING THE GAME MASTERMIND.
-THERE WILL BE INSTRUCTIONS AT THE BEGINNING OF THE GAME
+Terminal program in python reproducing the game of Mastermind. To try it, follow the instructions at the beginning of the game!
